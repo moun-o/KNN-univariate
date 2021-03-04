@@ -1,4 +1,4 @@
-## KNN K nearest neighbors (univaried case)
+## KNN K nearest neighbors (univariate case)
 
 To make it short, KNN algorithm is a supervised classfication algorithm who estimates the output based on the K most similar entries which are called nearest neighbours.
 
