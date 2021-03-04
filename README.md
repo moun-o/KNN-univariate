@@ -1,10 +1,7 @@
-## KNN K nearest neighbors (unvaried case)
+## KNN K nearest neighbors (univaried case)
 
 To make it short, KNN algorithm is a supervised classfication algorithm who estimates the output based on the K most similar entries which are called nearest neighbours.
 
-The question here is 
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 ## How we compute similarity
 
