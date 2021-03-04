@@ -53,7 +53,7 @@ then for example we choose 75% for train, 25% for test
 #separate into train data and test data
 ```
 train_data=airbnb_list[0:6000]
-test_data=airbnb_list[7000:]
+test_data=airbnb_list[6000:]
 ```
 
 ### PART 2 : Training implementation
